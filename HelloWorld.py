@@ -1,2 +1,2 @@
 print ("HelloWorld")
-//by Genko Karadimov
+#by Genko Karadimov
